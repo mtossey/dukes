@@ -1,0 +1,44 @@
+#topMenu {
+    background-color: #017574;
+    color: white;
+    padding-bottom: 10px;
+  }
+  
+  li.nav-item.nav-link {
+    color: rgb(255, 251, 251);
+  }
+  
+  li.nav-item.nav-link:hover {
+    color: #f1a228; /* Optional hover effect */
+  }
+  #centerImage {
+    height: 0px;
+  }
+  #footerText {
+    background-color: #017574;
+    color: white;
+    padding: 20px 0;
+  }
+  
+  #footerMenu {
+    background-color: #8E8579;
+    color: white;
+    padding: 10px 0;
+  }
+  
+  ul.nav {
+    list-style-type: none;
+  }
+  
+  ul.nav .nav-item {
+    margin-right: 20px;
+  }
+  
+  ul.nav .nav-item a {
+    color: white;
+  }
+  
+  ul.nav .nav-item a:hover {
+    color: #F1A228;
+  }
+  
